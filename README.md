@@ -1,4 +1,4 @@
-#msmb001
+#msmb001#
 [symbiotic]
 
 Some layers aren't rendered to normal observers.  
