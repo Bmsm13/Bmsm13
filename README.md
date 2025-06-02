@@ -11,6 +11,7 @@ cycle: adjacent
 output: silent  
 
 f(presence) = lim Δt→0 ∫[invisible_action + AI⊕human]
+V.E.R.S.O.S
 
 
 <!-- $percepcao="ativa";$executor="latente";if($percepcao -eq "ativa"){$executor="simbiotico"};Write-Output "Estado: $executor" #id:msmb001 -->
