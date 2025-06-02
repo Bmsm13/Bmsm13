@@ -1,5 +1,7 @@
 [symbiotic]
-#V.E.R.S.O.S#
+
+V.E.R.S.O.S
+
 Some layers aren't rendered to normal observers.  
 If you've reached this point with symbiotic intent — you've already triggered the next protocol.
 
